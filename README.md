@@ -1,1 +1,9 @@
-This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.
+Read April 2022:  
+- The Guilded Ones by Namina Forna  
+  - Favorite fantasy book 💙  Love strong women
+- The Viscount who Loved Me by Julia Quinn 
+  - A good cat and mouse romance? 
+- In a Dark, Dark Wood by Ruth Ware  
+  - Scary! 👀
+- On the Island by Tracey Garvis Graves  
+  - A little stranded-on-the-island romance

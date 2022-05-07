@@ -7,3 +7,11 @@
   - Scary! 👀
 - On the Island by Tracey Garvis Graves  
   - A little stranded-on-the-island romance  
+
+**HObbies**
+1. Rest and relaxation
+2. Yoga
+3. Learning coding
+  1. Markdown
+  2. Golang
+  3. Pythong
